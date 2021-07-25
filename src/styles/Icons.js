@@ -1,0 +1,10 @@
+export { Home } from '@styled-icons/foundation/Home'
+export { Messenger } from '@styled-icons/remix-line/Messenger'
+export { Explore } from '@styled-icons/material-outlined/Explore'
+export { Heart } from '@styled-icons/boxicons-regular/Heart'
+export { Chat } from '@styled-icons/bootstrap/Chat'
+export { Send } from '@styled-icons/feather/Send'
+export { Bookmark } from '@styled-icons/boxicons-regular/Bookmark'
+export { EmojiSmile } from '@styled-icons/bootstrap/EmojiSmile'
+
+export { MoreHorizontalOutline } from '@styled-icons/evaicons-outline/MoreHorizontalOutline'
